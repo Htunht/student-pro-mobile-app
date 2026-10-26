@@ -21,12 +21,16 @@ A mobile application built with React Native & Expo to help class leaders (ECs) 
 
 ## Getting Started
 
+Download Apk Link - https://tinyurl.com/4wc8p53n
+
 1. Install dependencies:
+
    ```bash
    npm install
    ```
 
 2. Start the development server:
+
    ```bash
    npx expo start
    ```
